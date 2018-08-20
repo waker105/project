@@ -11,3 +11,10 @@ footer {
     color: white;
     text-align: center;
 }
+footer>a{
+	color:#fff;
+}
+.header{
+	background-color: #009bc1;
+	color:#fff;
+}
