@@ -12,6 +12,7 @@ footer {
 }
 footer a{
 	color:#fff;
+	text-decoration:none;
 }
 .header{
 	background-color: #009bc1;
@@ -25,4 +26,5 @@ footer a{
 }
 .avatar{
 	margin-top:50px;
+	style:
 }
